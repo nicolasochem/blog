@@ -1,0 +1,5 @@
+baseURL = "http://little-dude.github.io/"
+languageCode = "en-us"
+title = "Little-dude's blog"
+pygmentsuseclasses = true
+PygmentsCodeFences = true

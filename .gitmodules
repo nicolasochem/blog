@@ -1,0 +1,6 @@
+[submodule "themes/pixyll"]
+	path = themes/pixyll
+	url = https://github.com/little-dude/hugo-theme-pixyll
+[submodule "public"]
+	path = public
+	url = git@github.com:little-dude/little-dude.github.io.git
