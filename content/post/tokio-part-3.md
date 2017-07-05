@@ -7,7 +7,7 @@ title = "Tokio part 3 - Writing a Codec"
 author = "little-dude"
 +++
 
-This post is the third post of a serie of posts explaining how I made a tokio
+This post is the third post of a series of posts explaining how I made a tokio
 based implementation of MessagePack-RPC. It explains how to write a codec for
 the MessagePack-RPC protocol.
 
